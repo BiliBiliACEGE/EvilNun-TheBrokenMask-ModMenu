@@ -1,0 +1,10 @@
+# Build outputs
+build/
+build_*/
+*.dll
+*.obj
+*.o
+
+# Local
+.vs/
+.idea/
